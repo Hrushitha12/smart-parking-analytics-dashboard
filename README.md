@@ -1,6 +1,7 @@
 
 # Smart Parking Occupancy Prediction 
 
+Deployed at: https://cc-course-project-smart-parking.streamlit.app/
 ## 🚗 Project Overview
 This project implements a complete **end-to-end smart parking analytics and prediction pipeline** using **PySpark**, **Spark SQL**, **MLlib**, and a reproducible batch workflow. It processes IoT parking sensor data, performs feature engineering, executes complex queries, trains an ML model, and prepares the system for dashboarding and streaming extensions.
 
@@ -157,5 +158,6 @@ streamlit run dashboard.py
 
 
 ---
+
 
 
