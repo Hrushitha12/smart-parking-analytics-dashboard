@@ -2,3 +2,7 @@ pyspark
 pandas
 matplotlib
 pytest
+plotly
+streamlit
+numpy
+scikit-learn
